@@ -36,7 +36,7 @@ mkdir -p "$PROJECT_DIR"
 
 # Mengunduh proyek dari GitHub
 echo "Mengunduh proyek dari GitHub..."
-git clone https://github.com/username/bot_store.git "$PROJECT_DIR"
+git clone https://github.com/freetunnel/bot_store.git "$PROJECT_DIR"
 
 # Menginstall dependensi
 echo "Menginstall dependensi..."
